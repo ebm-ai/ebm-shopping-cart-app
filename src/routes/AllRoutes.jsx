@@ -4,6 +4,10 @@ import Cart from '../pages/cart/Cart'
 import Contact from '../pages/contact/Contact'
 import Home from '../pages/home/Home'
 import Layout from '../layouts/Layout'
+import Checkout from '../pages/checkout/Checkout'
+import Item from '../pages/item/Item'
+import Sell from '../pages/sell/Sell'
+
 import { Routes, Route } from 'react-router-dom'
 
 
